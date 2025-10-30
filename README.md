@@ -12,6 +12,12 @@ This project implements a complete credit risk assessment system that helps fina
 - **Regulatory Compliance**: Meet Basel III and other regulatory requirements
 - **Portfolio Optimization**: Better understand and manage credit risk exposure
 
+## 🌐 Live Demo
+
+**🚀 Try the application now:** [https://creditxrisk.streamlit.app/](https://creditxrisk.streamlit.app/)
+
+Experience the credit risk assessment system in action with our deployed web application. No installation required!
+
 ## 🚀 Key Features
 
 ### 📈 Advanced Analytics
@@ -25,6 +31,7 @@ This project implements a complete credit risk assessment system that helps fina
 - **User-friendly Interface**: Intuitive Streamlit-based UI
 - **Credit Score Calculation**: 300-900 scale credit scoring
 - **Risk Rating System**: Poor/Average/Good/Excellent classifications
+- **🌐 Live Demo**: [https://creditxrisk.streamlit.app/](https://creditxrisk.streamlit.app/)
 
 ### 📊 Comprehensive Analysis
 - **Exploratory Data Analysis**: Detailed insights into risk factors
@@ -85,6 +92,11 @@ credit-risk-modeling/
 ```
 
 ## 🚀 Quick Start Guide
+
+### 🌐 Try Online (No Setup Required)
+**Visit the live application:** [https://creditxrisk.streamlit.app/](https://creditxrisk.streamlit.app/)
+
+For local development and customization, follow the setup instructions below:
 
 ### 1️⃣ Automated Setup (Recommended)
 ```bash
